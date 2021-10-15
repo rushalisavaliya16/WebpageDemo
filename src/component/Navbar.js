@@ -19,7 +19,7 @@ const Navbar = () =>{
                                     </li>
                                     <li className="nav-item custom-dropdown language">
                                     <a className="nav-link dropdown-toggle" href="#" id="navbarDropdown" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
-                                        <img src={enFlag} alt="English Flag" class="flag-image" /> <span>EN</span>
+                                        <img src={enFlag} alt="English Flag" className="flag-image" /> <span>EN</span>
                                       </a>
                                       <div className="dropdown-menu" aria-labelledby="navbarDropdown">
                                         <a className="dropdown-item active" href="#"><img src={enFlag} alt="English Flag" />EN</a>
