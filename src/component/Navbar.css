@@ -2708,4 +2708,8 @@ input[type=range]:focus {
 {
     text-align: center;
 }
+.car-partner-text h2 span
+{
+    color: #fff;
+}
   /* Product detail - Desktop End*/

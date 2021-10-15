@@ -4,7 +4,7 @@ const LookingForBox = (Prop) => {
   return(
     <>
     <div className="col-xl-6 looking-for-box-single">
-        <a href="#" className={Prop.class}>
+        <a href="#" className={Prop.customClass}>
             <div className="looking-icon-box">
                 <div className="icon-wrap">
                     <i className="stm-icon-car_search"></i>
